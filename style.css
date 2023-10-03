@@ -40,7 +40,7 @@ a {
 }
 
 .bg-2 {
-    background-color: #2e72a1; /* Blue */
+    background-color: #00FFE4; /* Blue */
     color: #ffffff;
 }
 
@@ -59,7 +59,7 @@ a {
 }
 
 .bg-4 {
-    background-color: #343a40; /* Dark Gray */
+    background-color: #000000; /* Black */
     color: #fff;
 }
 
@@ -69,6 +69,7 @@ a {
 }
 
 .navbar {
+    background-color: #00FFE4; /*light blue */
     padding-top: 15px;
     padding-bottom: 15px;
     border: 0;
